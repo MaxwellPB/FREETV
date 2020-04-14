@@ -1,39 +1,11 @@
 <channels>
  
 <channel>
-<name>[COLOR white][B]TV[/B][/COLOR]</name>
+<name>[B][COLOR white]TV AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MaxwellPB/FREETV/master/TV</externallink>
 <fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
 <info>Proibido a venda do addon FREE TV.</info>
-</channel>
- 
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
- 
-<channels>
- 
-<channel>
-<name>[COLOR white]FILMES[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem3.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
-<info>Proibido a venda do addon FREE TV</info>
-</channel>
- 
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
- 
-<channels>
- 
-<channel>
-<name>[COLOR white][B]SERIES[/B][/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem4.png</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
-<info>Proibido a venda do addon FREE TV</info>
 </channel>
  
 </channels>

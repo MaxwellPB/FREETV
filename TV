@@ -1,21 +1,7 @@
 <channels>
  
 <channel>
-<name>[COLOR white][B]CANAIS HD[/B][/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem5.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/MaxwellPB/FREETV/master/CANAIS%20HD</externallink>
-<fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
-<info>Proibido a venda do addon FREE TV.</info>
-</channel>
- 
-</channels>
- 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
- 
-<channel>
-<name>[COLOR white][B]CANAIS SD[/B][/COLOR]</name>
+<name>[B][COLOR white]CANAIS SD[/COLOR][/B]</name>
 <thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem6.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
@@ -24,14 +10,14 @@
  
 </channels>
  
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
  
 <channel>
-<name>[COLOR white][B]CANAIS ABERTOS[/B][/COLOR]</name>
-<thumbnail>https://ia601404.us.archive.org/13/items/imagem7_202004/Imagem7.png</thumbnail>
-<externallink>https://</externallink>
+<name>[B][COLOR white]CANAIS HD[/COLOR][/B]</name>
+<thumbnail>https://ia801404.us.archive.org/13/items/imagem7_202004/Imagem5.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/MaxwellPB/FREETV/master/CANAIS%20HD</externallink>
 <fanart>https://ia601502.us.archive.org/17/items/fanart_20200411/fanart.jpg</fanart>
 <info>Proibido a venda do addon FREE TV.</info>
 </channel>

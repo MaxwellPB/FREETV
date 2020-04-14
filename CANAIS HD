@@ -225,9 +225,6 @@ http://list.deeplist.nl:80/testeweb/2411189dias/52586
 #EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559763392_70688ae81b8039631d6018841784408bf2b48a2d.jpg",NBR HD
 http://list.deeplist.nl:80/testeweb/2411189dias/52675
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559763444_ada00b03cb0653305abafae98a9b9b4ed07baa60.jpg",NHK HD
-http://list.deeplist.nl:80/testeweb/2411189dias/2495
-
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559763480_5b7e41329f4ce3cdd75f9cdd9276de4db9cfda70.jpg",NICK HD
 http://list.deeplist.nl:80/testeweb/2411189dias/5093
 
@@ -342,7 +339,7 @@ http://list.deeplist.nl:80/testeweb/2411189dias/52590
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559768433_a9ac4ebebeb8daddf3e3ebc24c612bdbffbdb8fc.png",TELECINE TOUCH HD
 http://list.deeplist.nl:80/testeweb/2411189dias/927
 
-#EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768549_d5280f7bfbf0918d0cf522c156b3f6f9b10aa3be.jpg",TERRA VIVA
+#EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768549_d5280f7bfbf0918d0cf522c156b3f6f9b10aa3be.jpg",TERRA VIVA HD
 http://list.deeplist.nl:80/testeweb/2411189dias/52689
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559768587_00658635615343431568d81f520233f5b9838879.png",THE HISTORY CHANNEL HD
@@ -378,14 +375,8 @@ http://list.deeplist.nl:80/testeweb/2411189dias/58766
 #EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559769094_ba5a185ce0972deea92a8704e4122286223e79ee.png",TV RA TIM BUM HD
 http://list.deeplist.nl:80/testeweb/2411189dias/52248
 
-#EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559769228_febd1aa80929a7bc70a02accdeae625ab7d58004.png",TVE HD
-http://list.deeplist.nl:80/testeweb/2411189dias/52688
-
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559769363_07757ac3ca69f90b02da98cb3214fe02462c89d7.png",UNIVERSAL CHANNEL HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2475
-
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559769416_a51a51f9968d83ce169505e82221587e124a8094.png",VH1 MEGA HITS HD
-http://list.deeplist.nl:80/testeweb/2411189dias/58718
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559769504_0a5cca6f12f3535e0a1959002ddaf0819462ae23.jpg",VIVA HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2476

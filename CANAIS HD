@@ -69,17 +69,8 @@ http://list.deeplist.nl:80/testeweb/2411189dias/52238
 #EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559755293_0c9755ae8a39295ff6897ebef042003480f25759.png",CURTA ! HD
 http://list.deeplist.nl:80/testeweb/2411189dias/58688
 
-#EXTINF:-1 tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg",DAZN 1
+#EXTINF:-1 tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg",DAZN
 http://list.deeplist.nl:80/testeweb/2411189dias/60702
-
-#EXTINF:-1 tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg",DAZN 2
-http://list.deeplist.nl:80/testeweb/2411189dias/56437
-
-#EXTINF:-1 tvg-logo="http://img.myapp.st/1561322593_32373287e3ebdea2cd918db943cb627089c3e61b.jpg",DAZN 3
-http://list.deeplist.nl:80/testeweb/2411189dias/60701
-
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559755364_ac4af4fbe7df6ba68e12b043af568f26321bfe1f.png",DEUTSCH HD
-http://list.deeplist.nl:80/testeweb/2411189dias/37776
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png",DISCOVERY CHANNEL HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2410
@@ -102,11 +93,8 @@ http://list.deeplist.nl:80/testeweb/2411189dias/2411
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559756160_99f754cbb72bcfc2109ceafbbb7d10e0ed8e492b.png",DISCOVERY WORLD HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2461
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png",DISNEY CHANNEL HD 1
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png",DISNEY CHANNEL HD
 http://list.deeplist.nl:80/testeweb/2411189dias/38438
-
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png",DISNEY CHANNEL HD 2
-http://list.deeplist.nl:80/testeweb/2411189dias/5082
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559756323_555b826c0721d386d903cac94a608d90e9a1df08.png",DISNEY JR HD
 http://list.deeplist.nl:80/testeweb/2411189dias/20809
@@ -162,7 +150,7 @@ http://list.deeplist.nl:80/testeweb/2411189dias/2386
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559760291_7ae44011553f7188028f778d09bc49ed10cb6aa3.png",GLOBO NEWS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/5085
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg",GLOBO SÃO PAULO HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559758286_ba9c4e2f32ee815a870502f48d3e3f24675d36ab.jpg",GLOBO SP HD
 http://list.deeplist.nl:80/testeweb/2411189dias/17122
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559760817_884370d2e3f71574f4320654097de4dd1895ea8b.jpg",GLOOB HD

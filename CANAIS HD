@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg",A&E HD
-http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=5aba9ab204ff55dec74965d4fa00edc3
+http://painel.smartlista.org:8880/1xrj9gud7am/qmaz3dr1t6e/7494
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg",AMC HD
 http://list.deeplist.nl:80/testeweb/2411189dias/15406

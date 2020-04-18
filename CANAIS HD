@@ -273,6 +273,9 @@ http://list.deeplist.nl:80/testeweb/2411189dias/41353
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559765083_0790a4ed0824a05cad12d5df66294c1b95602568.png",PRIME BOX BRASIL
 http://list.deeplist.nl:80/testeweb/2411189dias/969
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RECORD TV HD
+http://list.deeplist.nl:80/testeweb/2411189dias/2400
+
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png",RECORD NEWS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2400
 

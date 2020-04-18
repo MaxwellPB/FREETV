@@ -24,7 +24,7 @@ http://list.deeplist.nl:80/testeweb/2411189dias/58682
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png",BAND NEWS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/58683
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png",BAND HD
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png",BAND HD
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png",BAND SPORTS HD
@@ -274,7 +274,7 @@ http://list.deeplist.nl:80/testeweb/2411189dias/41353
 http://list.deeplist.nl:80/testeweb/2411189dias/969
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png",RECORD TV HD
-http://list.deeplist.nl:80/testeweb/2411189dias/2400
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559765553_028559ac6e59ebde93bf1a0bad36ed1c8232b4f7.png",RECORD NEWS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2400

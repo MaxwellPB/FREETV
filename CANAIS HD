@@ -24,8 +24,8 @@ http://list.deeplist.nl:80/testeweb/2411189dias/58682
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png",BAND NEWS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/58683
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png",BAND SP HD
-http://list.deeplist.nl:80/testeweb/2411189dias/52595
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png",BAND HD
+https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png",BAND SPORTS HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2407

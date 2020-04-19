@@ -162,6 +162,9 @@ http://list.deeplist.nl:80/testeweb/2411189dias/17136
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559761612_3e88df94dd071b6a1a598be76039a497ef6b7af0.jpg",GNT HD
 http://list.deeplist.nl:80/testeweb/2411189dias/2466
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Alb2U2j7bmo/XQ0fN5swAsI/AAAAAAAABLc/EvnsuWlrKSQBwW85Y7sd02XI_S1blJubACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-21-15-12-44.png",GOSPEL CARTOON HD
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559761689_802993f9a839fb6e68d476c3c4f27510ec0ae001.png",H2 HD
 http://list.deeplist.nl:80/testeweb/2411189dias/1021
 

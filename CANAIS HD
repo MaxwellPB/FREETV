@@ -1,42 +1,42 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg",A&E [COLOR darkturquoise]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753182_4b72d6156df91099369211265277cf98ca748194.jpg",[B]A&E [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/8139
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg",AMC HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753228_f9fd5b8ac3ccd2067103ba276a7f7e943752a269.jpg",[B]AMC [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/7691
 
-#EXTINF:-1 tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559753303_f60845b1da65730c4221605d157659a6205baa87.png",ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://cdn.domestika.org/c_fill,dpr_1.0,h_1200,t_base_params.format_jpg,w_1200/v1583864752/project-covers/000/621/950/621950-original.jpg?1583864752",[B]ANIMAL PLANET [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/6142
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg",APARECIDA HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753398_c466a8f2f606513219fcf4a3f1ec9b0c27472146.jpg",[B]APARECIDA [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/4438
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg",ARTE 1 HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753532_caa4cefcd482e8704fb2f33b78992495742da21c.jpg",[B]ARTE 1 [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/10235
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg",AXN HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753616_db15cb1394f9e770c1017f2ac3d1f2e220f817d6.jpg",[B]AXN [COLOR darkturquoise]HD[/COLOR][/B]
 http://srv.tvprodigital.net:80/Elizabet123/Elizabet123/6140
 
-#EXTINF:-1 tvg-logo="http://img.myapp.st/1559753690_2ab895491643e3877cc6abc0e23db9f47d93f9fc.png",BABY TV HD
+#EXTINF:-1 tvg-logo="http://img.myapp.st/1559753690_2ab895491643e3877cc6abc0e23db9f47d93f9fc.png",[B]BABY TV [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/58682
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png",BAND NEWS HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753857_f2f09b2b39d460f9ec2776143a9f48dc521e9af4.png",[B]BAND NEWS [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/58683
 
-#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png",BAND HD
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2018/04/03/logo-da-band-1522794110655_v2_450x450.png",[B]BAND [COLOR darkturquoise]HD[/COLOR][/B]
 https://evpp.mm.uol.com.br/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png",BAND SPORTS HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559753919_5ae36f44066af89786ac144fa11f2ad596465922.png",[B]BAND SPORTS [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/2407
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png",BIS HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754036_35ada28f40070e936faab4cea34b6d1a26228aa3.png",[B]BIS [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/1104
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png",BOOMERANG HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754344_0b0d64ec6c374181c056b5f971543787e13fa60f.png",[B]BOOMERANG [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/20801
 
-#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg",CANAL BRASIL HD
+#EXTINF:-1 tvg-logo="http://img.starbr.in/1559754389_28121407418ba7a5e2bbd838ef32e91e687c1a45.jpg",[B]CANAL BRASIL [COLOR darkturquoise]HD[/COLOR][/B]
 http://list.deeplist.nl:80/testeweb/2411189dias/5079
 
 #EXTINF:-1 tvg-logo="http://img.starbr.in/1559754485_2eca300025a7676ca5bf1e87caa23119721219f2.jpg",CANAL DO BOI HD
